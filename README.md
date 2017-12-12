@@ -6,4 +6,4 @@
 
 musisz tutaj wejsc **[come in here!](www.google.pl)**
 
-![Benjamin Bannekat](https://octodex.github.com/images/kot.png)
+![Benjamin Bannekat](C:\Users\student\Desktop\zdjecie.png)
