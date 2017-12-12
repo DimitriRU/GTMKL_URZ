@@ -6,4 +6,4 @@
 
 musisz tutaj wejsc **[come in here!](www.google.pl)**
 
-![Benjamin Bannekat](zdj.png)
+![Benjamin Bannekat](C:\Users\student\Desktop\zdj.png)
